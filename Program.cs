@@ -11,7 +11,7 @@ namespace Course
 
             Console.WriteLine(account);
 
-            //account.Balance = 200.0; // o atributo por ser protect essa classe não tem direito a alteração,
+            //account.Balance = 200.0; // O atributo por ser protect essa classe não tem direito a alteração,
                                        // Tem direito apenas a propria classe e a classe filha 
         }
     }
